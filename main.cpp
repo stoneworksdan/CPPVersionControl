@@ -1,6 +1,7 @@
 #include <iostream>
 int main()
 {
-	std::cout << "Main function" << std::endl;
+	//Print Message
+	std::cout << "Welcome" << std::endl;
 
 }
