@@ -1,6 +1,7 @@
 #include <iostream>
 int main()
 {
-	std::cout << "Hello World" << std::endl;
+	//Print Message
+	std::cout << "Welcome!\n" << std::endl;
 
 }
